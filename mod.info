@@ -1,0 +1,6 @@
+name=ZZT_CT_mod
+id=ZZT_CT_mod
+description=Tiles para el servidor de roleplay Zona Zero RP.
+poster=poster.png
+pack=ct_zona_zero_tiles
+tiledef=ct_zona_zero_tiles_def 1234
